@@ -97,7 +97,3 @@ Appears on most tabs. Opens modal:
 - **Dark mode support**
 - **Tag filter chips** at top of lists for filtering (e.g., “Urgent”, “Linked Notes”)
 - **Progress indicator** for tasks/roadmap
-
----
-
-Would you like me to create a **mockup layout** or help define a **component structure** (e.g., for React Native, SwiftUI, or Flutter)?
